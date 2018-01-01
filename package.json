@@ -1,0 +1,24 @@
+{
+  "name": "put-it-over",
+  "version": "0.0.1",
+  "dependencies": {},
+  "description": "create overlay to pictures",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dracomithril/put-it-over.git"
+  },
+  "keywords": [
+    "overlay",
+    "pic"
+  ],
+  "author": "dracomithril",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dracomithril/put-it-over/issues"
+  },
+  "homepage": "https://github.com/dracomithril/put-it-over#readme"
+}
